@@ -1,0 +1,2 @@
+D:/AURHHWHHW/omsetin_resto/android/app/.cxx/RelWithDebInfo/3x1s6a4l/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/AURHHWHHW/omsetin_resto/android/app/.cxx/RelWithDebInfo/3x1s6a4l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

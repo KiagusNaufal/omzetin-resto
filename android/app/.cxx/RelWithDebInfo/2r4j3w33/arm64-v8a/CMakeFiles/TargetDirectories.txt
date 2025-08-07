@@ -1,0 +1,2 @@
+C:/aeratek/omsetin-stok/omsetin_resto/android/app/.cxx/RelWithDebInfo/2r4j3w33/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/aeratek/omsetin-stok/omsetin_resto/android/app/.cxx/RelWithDebInfo/2r4j3w33/arm64-v8a/CMakeFiles/rebuild_cache.dir
