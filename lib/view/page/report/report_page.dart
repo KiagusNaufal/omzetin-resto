@@ -89,7 +89,7 @@ class _ReportPageState extends State<ReportPage> {
                               // const Gap(20),
                               _buildMainCard(
                                 title: "Makanan Terjual",
-                                imagePath: 'assets/images/laporan-terjual.png',
+                                imagePath: 'assets/images/laporan-makanan.png',
                                 onTap: () {
                                   Navigator.push(
                                     context,

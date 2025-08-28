@@ -904,7 +904,7 @@ class _HomeState extends State<Home> {
                                     },
                                     title: "Makanan\n",
                                     color: Colors.black,
-                                    imagePath: 'assets/images/produk.png',
+                                    imagePath: 'assets/images/makanan.png',
                                   ),
                                 ),
                                 const Gap(10),
@@ -919,7 +919,7 @@ class _HomeState extends State<Home> {
                                     },
                                     title: "Tambah\nStok Makanan",
                                     color: Colors.black,
-                                    imagePath: 'assets/images/add-produk.png',
+                                    imagePath: 'assets/images/stok-makanan.png',
                                   ),
                                 ),
                                 Consumer<CashierProvider>(

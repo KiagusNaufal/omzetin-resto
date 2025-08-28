@@ -303,9 +303,9 @@ class _SplashScreenState extends State<SplashScreen> {
           ),
           gradient: LinearGradient(
             colors: [
-              const Color(0xff6bbeaa), // turquoise green
-              const Color(0xffa4d9b7), // turquoise green
-              const Color(0xff6bbeaa), // turquoise green
+              const Color(0xffA86523), // turquoise green
+              const Color(0xffE09B5C), // turquoise green
+              const Color(0xffA86523), // turquoise green
             ],
             begin: Alignment.topRight,
             end: Alignment.bottomLeft,
